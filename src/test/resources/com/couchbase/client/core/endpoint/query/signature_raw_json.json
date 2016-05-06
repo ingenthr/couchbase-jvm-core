@@ -1,0 +1,24 @@
+{
+  "requestID": "1234test-7802-4fc2-acd6-dfcd1c05a288",
+  "clientContextID": "1234567890123456789012345678901234567890123456789012345678901234",
+  "signature": "json",
+  "results": [
+    "usertable:user1000020025568546310",
+    "usertable:user1000020496607757961",
+    "usertable:user1000027879565730621",
+    "usertable:user1000029315261634634",
+    "usertable:user1000031235694182257",
+    "usertable:user1000049951211209093",
+    "usertable:user100004996570277029",
+    "usertable:user1000053778378872380",
+    "usertable:user1000061161336845040",
+    "usertable:user100006903305392693"
+  ],
+  "status": "success",
+  "metrics": {
+    "elapsedTime": "2.996095ms",
+    "executionTime": "2.943512ms",
+    "resultCount": 10,
+    "resultSize": 348
+  }
+}
